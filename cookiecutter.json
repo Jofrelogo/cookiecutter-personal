@@ -1,0 +1,11 @@
+{
+    "project_tittle": "Cookiecutter Personal",
+    "project_slug": "{{ cookiecutter.project_tittle.lower().replace(' ','_').replace('-','_') }}",
+    "project_description": "Ingeniero de Datos",
+    "project_author_name": "Jhon Lopez",
+    "project_packages": [
+        "All",
+        "Minimal"
+    ],
+    "python_version": "3.7"
+}
